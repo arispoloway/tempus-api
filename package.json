@@ -12,7 +12,10 @@
   ],
   "author": "Aris Poloway",
   "license": "MIT",
-  "repository": "https://github.com/arispoloway/tempus-api.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arispoloway/tempus-api.git"
+  },
   "dependencies": {
     "jsdoc": "^3.5.5",
     "request": "^2.88.0",
