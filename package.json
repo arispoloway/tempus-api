@@ -1,6 +1,6 @@
 {
   "name": "tempus-api",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "A node wrapper around the Tempus Jump Network API",
   "main": "./lib/tempus.js",
   "scripts": {
